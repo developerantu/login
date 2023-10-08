@@ -1,0 +1,83 @@
+#heder{
+    background-color: hsl(252, 60%, 36%);
+    width: 100%;
+}
+#facebook h3{
+    margin-bottom: -33px;
+    margin-top: -7px;
+    margin-left: 267px;
+    width: 60%;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+
+}
+#hader2{
+    width: 50%;
+}
+span{
+    color: white;
+    font-size: 11px;
+}
+#email{
+    
+}
+
+#password{}
+#log_in{
+    text-align: center;
+    margin-top: 23px;
+    display: inline-block;
+    background: #4867AA;
+    border-radius: 2px;
+    color: white;
+    font-size: 16px;
+    width: 50px;
+}
+#fac{ 
+    color: #4867AA;
+    width: 12px;
+   font-size: 15px; 
+}
+
+#table_main{
+    width: 100%;
+    background-color:#F0F2F5;
+}
+h3{
+    font-size: 22px;
+    color: black;
+}
+#why{
+    width: 100px;
+    display: inline-block;
+    font-size: 10px;
+    color: #4867AA;
+    margin-left: -25px;
+}
+#tax{
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#button{
+    background-color:#36A420;
+    text-align: center;
+    padding: 8px;
+    color: #F0F2F5;
+    border-radius: 5px;
+    font-size: 18px;
+
+}
+#img_new{
+    width: 100%;
+    text-align:right;
+    margin-top: 20px;
+}
+#img_tax{
+   
+    margin-top: -196px;
+    margin-left:450px;
+}
